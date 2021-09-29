@@ -1,0 +1,10 @@
+Z:\Github\programozas\20210929\20210929\bin\Debug\20210929.exe.config
+Z:\Github\programozas\20210929\20210929\bin\Debug\20210929.exe
+Z:\Github\programozas\20210929\20210929\bin\Debug\20210929.pdb
+Z:\Github\programozas\20210929\20210929\obj\Debug\20210929.csprojAssemblyReference.cache
+Z:\Github\programozas\20210929\20210929\obj\Debug\_20210929.Form1.resources
+Z:\Github\programozas\20210929\20210929\obj\Debug\_20210929.Properties.Resources.resources
+Z:\Github\programozas\20210929\20210929\obj\Debug\20210929.csproj.GenerateResource.cache
+Z:\Github\programozas\20210929\20210929\obj\Debug\20210929.csproj.CoreCompileInputs.cache
+Z:\Github\programozas\20210929\20210929\obj\Debug\20210929.exe
+Z:\Github\programozas\20210929\20210929\obj\Debug\20210929.pdb
