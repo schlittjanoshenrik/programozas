@@ -1,0 +1,9 @@
+Z:\Github\programozas\20210930Feladat8\20210930Feladat8\bin\Debug\20210930Feladat8.exe.config
+Z:\Github\programozas\20210930Feladat8\20210930Feladat8\bin\Debug\20210930Feladat8.exe
+Z:\Github\programozas\20210930Feladat8\20210930Feladat8\bin\Debug\20210930Feladat8.pdb
+Z:\Github\programozas\20210930Feladat8\20210930Feladat8\obj\Debug\_20210930Feladat8.Form1.resources
+Z:\Github\programozas\20210930Feladat8\20210930Feladat8\obj\Debug\_20210930Feladat8.Properties.Resources.resources
+Z:\Github\programozas\20210930Feladat8\20210930Feladat8\obj\Debug\20210930Feladat8.csproj.GenerateResource.cache
+Z:\Github\programozas\20210930Feladat8\20210930Feladat8\obj\Debug\20210930Feladat8.csproj.CoreCompileInputs.cache
+Z:\Github\programozas\20210930Feladat8\20210930Feladat8\obj\Debug\20210930Feladat8.exe
+Z:\Github\programozas\20210930Feladat8\20210930Feladat8\obj\Debug\20210930Feladat8.pdb
