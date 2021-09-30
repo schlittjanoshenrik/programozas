@@ -1,0 +1,10 @@
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\bin\Debug\20210930Feladar7.exe.config
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\bin\Debug\20210930Feladar7.exe
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\bin\Debug\20210930Feladar7.pdb
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\obj\Debug\20210930Feladar7.csprojAssemblyReference.cache
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\obj\Debug\_20210930Feladar7.Form1.resources
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\obj\Debug\_20210930Feladar7.Properties.Resources.resources
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\obj\Debug\20210930Feladar7.csproj.GenerateResource.cache
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\obj\Debug\20210930Feladar7.csproj.CoreCompileInputs.cache
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\obj\Debug\20210930Feladar7.exe
+Z:\Github\programozas\20210930Feladar7\20210930Feladar7\obj\Debug\20210930Feladar7.pdb
