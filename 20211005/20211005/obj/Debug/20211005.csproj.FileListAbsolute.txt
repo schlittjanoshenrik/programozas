@@ -1,0 +1,7 @@
+Z:\Github\programozas\20211005\20211005\bin\Debug\20211005.exe.config
+Z:\Github\programozas\20211005\20211005\bin\Debug\20211005.exe
+Z:\Github\programozas\20211005\20211005\bin\Debug\20211005.pdb
+Z:\Github\programozas\20211005\20211005\obj\Debug\20211005.csprojAssemblyReference.cache
+Z:\Github\programozas\20211005\20211005\obj\Debug\20211005.csproj.CoreCompileInputs.cache
+Z:\Github\programozas\20211005\20211005\obj\Debug\20211005.exe
+Z:\Github\programozas\20211005\20211005\obj\Debug\20211005.pdb
